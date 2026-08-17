@@ -1,0 +1,20 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "projeto do curso da udemy de scss",
+  "homepage": "https://github.com/belchiorgomes/projeto1-agency#readme",
+  "bugs": {
+    "url": "https://github.com/belchiorgomes/projeto1-agency/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belchiorgomes/projeto1-agency.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
